@@ -6,7 +6,7 @@
 typedef struct {
 		int n;
 		double *x;
-		double *f;
+		double *y;
 		double *a;
 		double *b;
 } spline_t;
